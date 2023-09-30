@@ -2,16 +2,17 @@
 <h1 align="center">Hola, soy <a href="https://www.instagram.com/simon_j_2023/">Simón Jaramillo</a> 🫡</h1>
 </div>
 
-[![POSTER-SIMON.png](https://i.postimg.cc/bY0pPDSG/POSTER-SIMON.png)](https://postimg.cc/c6JVMJmZ)
-<div align="center"><a href="https://www.youtube.com/@COL-TECH/featured" target="_blank"><button type="button" class="btn btn-primary">
-  YOUTUBE <span class="badge bg-secondary">⏯</span>
-</button></a><a href="https://twitter.com/col_tech" target="_blank"><button type="button" class="btn btn-primary">
-  TWITTER <span class="badge bg-secondary">🕊️</span>
-</button></a><a href="https://www.instagram.com/coltech_company/" target="_blank"><button type="button" class="btn btn-primary">
-  INSTAGRAM <span class="badge bg-secondary">📷</span>
-</button></a><a href="https://www.tiktok.com/@col_tech_" target="_blank"><button type="button" class="btn btn-primary">
-  TIK TOK <span class="badge bg-secondary">🕺</span>
-</button></a></div>
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i.postimg.cc/bY0pPDSG/POSTER-SIMON.png" alt="JuveYell" width="1000px">
+</p>
+</div>
+
+<div>
+<p style = 'text-align:center;'>
+<a href="https://www.instagram.com/coltech_company/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href="https://www.tiktok.com/@col_tech_"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> <a href="https://www.youtube.com/@COL-TECH"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> <a href="https://twitter.com/col_tech"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+</p>
+</div>
 
 ## SOBRE MI
 
@@ -19,6 +20,6 @@
 - 📲 MOBILE DEVELOPER
 - 🎗️ LENGUAJES Kotlin, Java, Python
 - 🎨 DISEÑADOR DE FRONTS Y CSS
-- 🛠️ FUNDADOR DE COL TECH 
+- 🛠️ FUNDADOR DE __COL TECH__
 - 🎯 ___"PERSEVERANCIA Y OBSESIÓN SON TODO PODEROSAS"___
 <br>
